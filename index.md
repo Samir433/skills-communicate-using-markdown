@@ -17,3 +17,6 @@ I am learning **Markdown** and *GitHub* to improve documentation skills.
 ```python
 def greet():
     print("Hello, GitHub!")
+```
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
